@@ -9,7 +9,7 @@
   "author": "b-long",
   "license": "MIT",
   "devDependencies": {
-    "readline-sync": "^0.7.9",
-    "yargs": "^3.5.4"
+    "readline-sync": "^1.4.5",
+    "yargs": "^6.5.0"
   }
 }
