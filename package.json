@@ -10,6 +10,6 @@
   "license": "MIT",
   "devDependencies": {
     "readline-sync": "^1.4.5",
-    "yargs": "^6.5.0"
+    "yargs": "^7.0.2"
   }
 }
