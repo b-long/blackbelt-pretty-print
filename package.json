@@ -2,14 +2,20 @@
   "name": "blackbelt-pretty-print",
   "version": "1.0.0",
   "description": "Hiyah!  Using karate to pretty-print JSON.",
+  "engines": {
+    "node": ">=6"
+  },
   "main": "blackbelt-pretty-print.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/jshint/bin/jshint *.js"
   },
   "author": "b-long",
   "license": "MIT",
   "devDependencies": {
     "readline-sync": "^1.4.5",
     "yargs": "^9.0.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
   }
 }
